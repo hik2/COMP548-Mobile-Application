@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentPsVrSpecs">
+
+    <TextView
+        android:id="@+id/textViewSpecs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FAFAFA"
+        android:text="@string/text_playstation_specs"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+</FrameLayout>
