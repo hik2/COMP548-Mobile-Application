@@ -1,1 +1,1 @@
-# COMP548-Mobile-Application
+# COMP548 Mobile Application
